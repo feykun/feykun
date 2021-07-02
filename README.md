@@ -1,6 +1,6 @@
 ### Hi! 
 
-- I am an undergrad physics student in [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
+- I am an undergrad physics student at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
 - Currently doing research at [ECOS](http://hyilmaz.unam.bilkent.edu.tr/) on  behavior of light in complex optical or photonic systems.
 - You can reach me via [Twitter](https://twitter.com/sfeykuns).
 - Using Matlab and Python.
